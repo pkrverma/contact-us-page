@@ -1,12 +1,40 @@
-# React + Vite
+## 📩 Contact Us Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Description:**  
+A functional and responsive **Contact Us form** built using **React.js**, designed to capture user input, validate fields, and display the submitted data dynamically. This project demonstrates controlled components, form state management, and modular CSS styling — ideal for practicing real-world React skills.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [Website Link](https://contact-us-page-fawn.vercel.app/)
+📱 *Note: Not fully responsive yet; layout may break on smaller screens.*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+### ✅ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Input fields for name, email, and message  
+- Submit button with basic validation logic  
+- Dynamic display of submitted data  
+- Form state handled using `useState`  
+- Responsive layout and clean design  
+- CSS Modules used for scoped styling
+
+---
+
+### 🛠️ Tech Stack
+
+- **React.js** – Component-based UI and state handling  
+- **JavaScript (ES6)** – Event handling and logic  
+- **CSS Modules** – Component-level styling  
+- **HTML5** – Semantic form structure
+
+---
+
+### 📘 Key Concepts Applied
+
+- Controlled components using `useState`  
+- Form data binding and state updates  
+- Conditional rendering for submitted values  
+- Modular CSS structure for maintainable styles
+
+---
+
+💡 _This project reinforces essential frontend development practices such as state-driven UI, user input handling, and styling architecture using modular CSS._
